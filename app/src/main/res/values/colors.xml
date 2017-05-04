@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9902</color>
+    <color name="colorPrimaryDark">#9f7430</color>
+    <color name="colorAccent">#f2ff40</color>
+    <color name="colorButtonNormal">#FF9902</color>
+    <color name="teamNameTextColor">#616161</color>
+    <color name="scoreTextColor">#000000</color>
+    <color name="backgroundColor">#e4e4e4</color>
+</resources>
